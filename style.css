@@ -1,0 +1,23 @@
+body {
+    background-color:cadetblue
+}
+li{
+    border: 1px solid black;
+    padding: 10px;
+    width: 150px;
+    height: 50px;
+    text-align: justify;
+}
+h1 {
+    color: white;
+    text-align: center;
+    }
+li border: 1px solid black;
+    outline-style: double;
+    outline-color: red;
+p {
+    font-family: verdana;
+    font-size: 20px;
+    }
+    img { width = 100%
+    }
